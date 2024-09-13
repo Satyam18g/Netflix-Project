@@ -1,6 +1,4 @@
-Here's a README file draft for your Netflix user data analysis project on GitHub:
 
----
 
 # Netflix User Data Analysis Project
 
