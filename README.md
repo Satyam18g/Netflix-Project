@@ -91,6 +91,4 @@ This project provides valuable insights into Netflix's user base, helping identi
    ```
 3. Open the Jupyter Notebook and run the analysis.
 
----
 
-Feel free to modify this README as needed for your project specifics!
