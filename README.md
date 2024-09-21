@@ -1,5 +1,3 @@
-
-
 # Netflix User Data Analysis Project
 
 ## Project Overview
